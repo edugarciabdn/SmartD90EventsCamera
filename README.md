@@ -41,3 +41,4 @@
 <p>&nbsp;</p>
 <h2>PRIVACY POLICY</h2>
 <p>By accepting the camera permission requested by the application, the user accepts that the images taken with the camera are saved locally in the internal sdcard under the route: \\Pictures\SmartD90EventsCamera\. The images will only be deleted by the user.<br /><br /></p>
+<p>&nbsp;<a title="SmartD90 Square Events Camera" href="https://play.google.com/store/apps/details?id=com.smartd90eventscamera&amp;hl=en" target="_blank"><img src="http://www.motionstudios.es/edu/php/smartd90/en_badge_web_generic.png" alt="" width="452" height="175" /></a></p>
